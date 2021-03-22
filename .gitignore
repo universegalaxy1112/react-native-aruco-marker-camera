@@ -63,3 +63,5 @@ ios/tmp.xcconfig
 
 # vscode
 .vscode/*
+
+ios/opencv2.framework/Versions/A
